@@ -27,5 +27,5 @@
 ![](ml_trading_bot/img5.png)
 
 
-## Over Summary
+## Overall Summary
 ### Looking over all models, Summary 4 with AdaBooster Classifer and windows, short = 7 and long = 50, seemed to be the best of all. Model 4 seems to be the best fitted for this dataset.
